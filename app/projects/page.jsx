@@ -51,7 +51,7 @@ const Projects = () => {
           >
             {projects.map((pub, index) => {
               return(
-                <Link 
+                <Link key={index}
                   target="_blank" rel="noopener noreferrer"
                   href={pub.href}
                   className="flex-1 flex flex-col justify-center gap-6 group"
