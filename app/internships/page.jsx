@@ -9,7 +9,7 @@ const internships = [
     num: '01',
     title: 'Research & Development Intern at IIT Kharagpur',
     desc: 'Working as Blockchain Researcher at Smart Wireless Applications & Networking Lab under Prof. Sudip Mishra',
-    href: 'https://cse.iitkgp.ac.in/~smisra/swan/'
+    href: 'https://drive.google.com/file/d/1Q2b1i19VqUlDpclG_tejjmBiGoIFjX2a/view'
   },
   {
     num: '02',
